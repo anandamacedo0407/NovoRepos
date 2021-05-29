@@ -3,3 +3,4 @@
 ## Ananda Borrel de Macedo
 ## Ana Gabriele Chaves N Pereira
 ## Wendel da Costa Máximo
+## Pedro Damazio Neves
